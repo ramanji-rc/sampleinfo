@@ -1,6 +1,6 @@
 # .NET Sample App
 
-https://dev.azure.com/ramanji521/Myproject/_apis/build/status/ramanji-rc.coderepo?branchName=master
+
 
 Push the app with no-start:
 ```
@@ -20,6 +20,7 @@ Enable diego and start your app:
 cf enable-diego environment
 cf start environment
 ```
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-3.6.1 
 
 If you're having this problem pushing the application:
 ```
