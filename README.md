@@ -1,6 +1,6 @@
 # .NET Sample App
 
-
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-3.6.1
 
 Push the app with no-start:
 ```
